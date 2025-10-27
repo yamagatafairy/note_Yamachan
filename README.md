@@ -33,6 +33,11 @@ GitHubの容量制限により、大規模データは本リポジトリ内に�
 
 ---
 
-## 著者情報（Author）
-データ分析・統計・機械学習を中心に、実データから価値を見出す活動をしています。  
-[noteプロフィールを見る](https://note.com/your_note_profile)
+## プロフィール
+データ分析や統計を中心に、いろんなテーマを探りながら日々勉強中です。  
+KaggleやAtCoderの経験を活かして、データから小さな発見を見つけるのが楽しみです。
+
+- [note](https://note.com/your_note_profile)  
+- [X (Twitter)](https://twitter.com/your_x_profile)  
+- [AtCoder](https://atcoder.jp/users/your_atcoder_id)  
+- [Kaggle](https://www.kaggle.com/your_kaggle_id)
