@@ -35,7 +35,7 @@ GitHubの容量制限により、大規模データは本リポジトリ内に�
 
 ## プロフィール
 データ分析や統計を中心に、いろんなテーマを探りながら日々勉強中です。  
-KaggleやAtCoderの経験を活かして、データから小さな発見を見つけるのが楽しみです。
+アウトプットの練習をしています。
 
 - [note](https://note.com/your_note_profile)  
 - [X (Twitter)](https://twitter.com/your_x_profile)  
